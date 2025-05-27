@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gouma\\documents\\unreal projects\\thermalperception\\plugins\\filesdk\\intermediate\\build\\win64\\unrealeditor\\inc\\filesdk\\uht\\filesdk.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gouma\\documents\\unreal projects\\thermalperception\\intermediate\\build\\win64\\x64\\thermalperceptioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\gouma\\documents\\unreal projects\\thermalperception\\plugins\\filesdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\filesdk\\definitions.filesdk.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/Actions/IA_MoveHorizontal.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/Actions/IA_MoveVertical.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/B_InputModifier_XAxisNegativeOnly.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/Actions/IA_SnapTurn.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/Actions/IA_Sprint.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/Actions/IA_Shoot_Right.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Blueprints/Cold/BounceMovable_C.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Blueprints/Cold/MovableWall_C.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Blueprints/Cold/Pendulum_C.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Blueprints/Cold/Rotator_C.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Blueprints/Cold/RotatorGround_C.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Blueprints/WBP_GameMenu.uasset",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/Obstacle_Course/Maps/Cold.umap",
+				"D:/Unreal Projects/ThermalPerceptionVR/Content/VRTemplate/Input/Actions/IA_Turn.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FileSDK.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Intermediate\Build\Win64\x64\ThermalPerceptionEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDK.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKBPLibrary.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKCopyFileAsync.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKFileReader.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileAnchor.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDK.init.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKBPLibrary.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKCopyFileAsync.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKEncodingOptions.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKFileInfo.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKFileReader.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKFileType.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\FileSDKLineReader.gen.cpp.obj"
+"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\Default.rc2.res"
+/OUT:"C:\Users\gouma\Documents\Unreal Projects\ThermalPerception\Plugins\FileSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileSDK\UnrealEditor-FileSDK.lib"
