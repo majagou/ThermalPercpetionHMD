@@ -15,7 +15,7 @@ To explore this, the project includes 3 scene variations:
 - **Cold scenes**
 ![ColdDesign](ColdDesign.png)
 - **Neutral scenes**
-![NeutralDesign](NeutralDesign.png)
+![NeutralDesign](NeutralDesgin.png)
  
 ## Technical Stack
 - Unreal Engine 5
