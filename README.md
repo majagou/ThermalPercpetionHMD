@@ -11,8 +11,11 @@ The project investigates how environmental visuals such as **lighting, color, gl
 To explore this, the project includes 3 scene variations:
 
 - **Hot scenes**
+![HotDesign](HotDesign.png)
 - **Cold scenes**
+![ColdDesign](ColdDesign.png)
 - **Neutral scenes**
+![NeutralDesign](NeutralDesign.png)
  
 ## Technical Stack
 - Unreal Engine 5
